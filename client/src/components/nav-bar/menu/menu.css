@@ -1,0 +1,11 @@
+.menu-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-container.nav-bar {
+    height: 6vh;
+    background-color: #333333;
+    flex-direction: row;
+    opacity: 1;
+}

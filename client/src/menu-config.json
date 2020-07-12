@@ -1,0 +1,87 @@
+[
+  {
+    "key": "Home",
+    "subMenu": [
+      {
+        "key": "Save"
+      },
+      {
+        "key": "Save as"
+      },
+      {
+        "key": "Refresh"
+      }
+    ]
+  },
+  {
+    "key": "News",
+    "subMenu": [
+      {
+        "key": "History",
+        "subMenu": [
+          {
+            "key": "Last 24H News"
+          },
+          {
+            "key": "Last Week News",
+            "subMenu": [
+              {
+                "key": "Most Popular News"
+              },
+              {
+                "key": "All News"
+              }
+            ]
+          },
+          {
+            "key": "Last Month News"
+          }
+        ]
+      },
+      {
+        "key": "Create News",
+        "subMenu": [
+          {
+            "key": "Fake News"
+          },
+          {
+            "key": "Real News"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "key": "Contact",
+    "subMenu": [
+      {
+        "key": "How to Reach Us"
+      },
+      {
+        "key": "Send Email"
+      }
+    ]
+  },
+  {
+    "key": "About",
+    "subMenu": [
+      {
+        "key": "Team"
+      },
+      {
+        "key": "Join Us"
+      },
+      {
+        "key": "The Beginning",
+        "subMenu": [
+          {
+            "key": "Short Version"
+          },
+          {
+            "key": "The Storyteller Version (Long one)"
+          }
+        ]
+      }
+    ]
+  }
+]

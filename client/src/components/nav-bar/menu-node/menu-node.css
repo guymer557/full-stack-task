@@ -1,0 +1,52 @@
+.node-container {
+     position: relative;
+}
+
+.node-container.nav-bar {
+     height: 100%;
+}
+
+.node-text-box {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     height: 3vh;
+     width: 20vw;
+     color: #ffffff;
+     background-color: rgba(51, 51, 51, 0.55);
+     padding: 5px 5px 5px 15px;
+}
+
+.nav-bar > .node-text-box {
+     height: 100%;
+     width: 9vw;
+     justify-content: center;
+     padding: 0;
+}
+
+.node-text-box:hover {
+     background-color: #66ac5b;
+}
+
+.arrow {
+     width: 2vw;
+     height: 3vh;
+     fill: #ffffff;
+}
+
+.sub-menu-container {
+     position: relative;
+}
+
+.sub-menu {
+     position: absolute;
+     top: 0;
+     right: 0;
+     transform: translateX(100%);
+}
+
+.sub-menu-nav-bar {
+     position: absolute;
+     bottom: 0;
+     transform: translateY(100%);
+}
