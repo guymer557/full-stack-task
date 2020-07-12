@@ -6,7 +6,7 @@ Simple server app with users service.
 ### `Users Service`
 
 - getUsersInfo([id, id...]): the method gets array of user ids and returns array of users,
-map of user ids and how much time took to retrieve their information and average age of all the users.
+map of user ids and how much time in ms took to retrieve their information and average age of all the users.
 
 ### `npm test`
 
