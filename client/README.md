@@ -13,4 +13,4 @@ The structure of the menu-config.json is array of objects which look like this:
 <br> `}`
 
 - key: the name of the menu node.
-- subMenu: the children of the current node, every child object should be with tha same object structre as above.
+- subMenu: the children of the current node, every child object should be with the same object structre as above.
