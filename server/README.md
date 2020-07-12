@@ -14,4 +14,4 @@ Runs the tests for users service
 
 ### `Assumptions`
 
-The DB in this project is locally, and assumed to be named `users_app` with collection `users`
+The DB in this project is locally, and assumed to be named `users_app` with `users` collection 
